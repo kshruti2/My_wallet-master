@@ -11,8 +11,6 @@ Welcome to the `my_wallet` project! This project is a secure token wallet develo
 - [Frontend Development](#frontend-development)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [Documentation](#documentation)
-- [License](#license)
 
 ## Project Overview
 
