@@ -1,6 +1,6 @@
-# `my_wallet`
+# `RUST BASED TOKEN WALLET USING ICP`
 
-Welcome to the `my_wallet` project! This project is a secure token wallet developed for the Internet Computer Protocol (ICP) blockchain. It supports basic functionalities such as sending and receiving IRCRC2 tokens and displays token balances.
+Welcome to the `rust based token wallet` project! This project is a secure token wallet developed for the Internet Computer Protocol (ICP) blockchain. It supports basic functionalities such as sending and receiving IRCRC2 tokens and displays token balances.
 
 ## Table of Contents
 
